@@ -16,6 +16,8 @@ function crearGato(nombre, edad) {
    }
    return obj
 }
+crearGato("juan", 5)
+
 
 function nuevoUsuario(nombre, email, password) {
    // Debes crear un nuevo objeto.
